@@ -1,0 +1,18 @@
+body {
+    background-color: gold;
+}
+
+.hello-div {
+    display: flex;
+    justify-content: center;
+}
+
+
+.hello {
+    color: transparent;
+    font-size: 90px;
+    font-style: oblique;
+    background-image: linear-gradient(to right, #ff0000, #00ff00, #0000ff);
+    -webkit-background-clip: text;
+
+}
